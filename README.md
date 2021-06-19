@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jdqy0n2fc1078m5g?svg=true)](https://ci.appveyor.com/project/KuzminaYuliya/ajs-4-3-mocks)
